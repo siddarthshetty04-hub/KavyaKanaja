@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="charcoal">#1E1E1E</color>
+    <color name="dark_walnut">#2D1810</color>
+    <color name="deep_amber">#F59E0B</color>
+    <color name="deep_teal">#1A535C</color>
+    <color name="ivory">#FFFFF0</color>
+    <color name="muted_sage">#7A8B6F</color>
+    <color name="parchment">#F5E6C8</color>
+    <color name="rich_brown">#4A2C1A</color>
+    <color name="royal_gold">#D4A853</color>
+    <color name="saffron">#FF9933</color>
+    <color name="soft_white">#FAFAF5</color>
+    <color name="warm_cream">#FFF8E7</color>
+    <string name="app_name">ಕಾವ್ಯ ಕಣಜ</string>
+    <string name="app_name_english">Kavya Kanaja</string>
+    <string name="bhavartha">ಭಾವಾರ್ಥ</string>
+    <string name="collection">ಸಂಗ್ರಹ</string>
+    <string name="explore">ಅನ್ವೇಷಿಸಿ</string>
+    <string name="favorite">ಮೆಚ್ಚಿನವು</string>
+    <string name="home">ಮನೆ</string>
+    <string name="listen_learn">ಕೇಳಿ ಮತ್ತು ಕಲಿಯಿರಿ</string>
+    <string name="pause">ನಿಲ್ಲಿಸಿ</string>
+    <string name="play">ಕೇಳಿ</string>
+    <string name="poem_of_the_day">ಇಂದಿನ ಕವಿತೆ</string>
+    <string name="poets_corner">ಕವಿಗಳ ಮೂಲೆ</string>
+    <string name="profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="share">ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="tagline">Poetry Granary • ಕಾವ್ಯದ ಉಗ್ರಾಣ</string>
+    <string name="word_meanings">ಪದಗಳ ಅರ್ಥ</string>
+    <style name="Theme.KavyaKanaja" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#1A1A2E</item>
+        <item name="android:navigationBarColor">#1A1A2E</item>
+        <item name="android:windowBackground">#FFFFF0</item>
+    </style>
+</resources>

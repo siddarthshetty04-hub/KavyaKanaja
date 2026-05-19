@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kavya Kanaja</string>
+    <string name="app_name_english">Kavya Kanaja</string>
+    <string name="tagline">Poetry Granary</string>
+    <string name="poem_of_the_day">Poem of the Day</string>
+    <string name="listen_learn">Listen &amp; Learn</string>
+    <string name="bhavartha">Bhavartha (Meaning)</string>
+    <string name="poets_corner">Poet\'s Corner</string>
+    <string name="word_meanings">Word Meanings</string>
+    <string name="play">Play Recitation</string>
+    <string name="pause">Pause</string>
+    <string name="share">Share</string>
+    <string name="favorite">Favorite</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="collection">Collection</string>
+    <string name="profile">Profile</string>
+</resources>

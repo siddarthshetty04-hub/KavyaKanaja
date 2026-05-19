@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="saffron">#FF9933</color>
+    <color name="deep_amber">#F59E0B</color>
+    <color name="royal_gold">#D4A853</color>
+    <color name="warm_cream">#FFF8E7</color>
+    <color name="parchment">#F5E6C8</color>
+    <color name="dark_walnut">#2D1810</color>
+    <color name="rich_brown">#4A2C1A</color>
+    <color name="muted_sage">#7A8B6F</color>
+    <color name="deep_teal">#1A535C</color>
+    <color name="ivory">#FFFFF0</color>
+    <color name="charcoal">#1E1E1E</color>
+    <color name="soft_white">#FAFAF5</color>
+</resources>

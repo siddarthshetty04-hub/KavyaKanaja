@@ -1,0 +1,7 @@
+#Sat May 09 10:54:50 IST 2026
+base.0=C\:\\Users\\Siddarth\\Desktop\\Kavya-Kanaja-Poetry-Granary\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=C\:\\Users\\Siddarth\\Desktop\\Kavya-Kanaja-Poetry-Granary\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

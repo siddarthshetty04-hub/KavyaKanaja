@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "title": "ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ",
+    "poet": "ಡಿ.ವಿ. ಗುಂಡಪ್ಪ",
+    "lines": [
+      "ಹುಲ್ಲಾಗು ಬೆಟ್ಟದಡಿ, ಮನೆಗೆ ಮಲ್ಲಿಗೆಯಾಗು",
+      "ಕಲ್ಲಾಗು ಕಷ್ಟಗಳ ಮಳೆಯ ವಿಧಿ ಸುರಿಯೆ",
+      "ಬೆಲ್ಲ-ಸಕ್ಕರೆಯಾಗು ದೀನದುರ್ಬಲರಿಂಗೆ",
+      "ಎಲ್ಲರೊಳೊಂದಾಗು ಮಂಕುತಿಮ್ಮ"
+    ],
+    "bhavartha_kannada": "ಬೆಟ್ಟದ ಬುಡದಲ್ಲಿ ಬೆಳೆಯುವ ಹುಲ್ಲಿನಂತೆ ವಿನಯಶೀಲನಾಗಿರು. ಮನೆಯವರ ಪಾಲಿಗೆ ಮಲ್ಲಿಗೆಯಂತೆ ಸುವಾಸನೆ ಬೀರು. ಕಷ್ಟಗಳು ಬಂದಾಗ ಕಲ್ಲಿನಂತೆ ಅಚಲವಾಗಿರು. ಬಡವರು ಮತ್ತು ದುರ್ಬಲರಿಗೆ ಬೆಲ್ಲ-ಸಕ್ಕರೆಯಂತೆ ಸಿಹಿಯಾಗಿರು. ಎಲ್ಲರೊಂದಿಗೆ ಬೆರೆತು, ಒಬ್ಬರಾಗಿ ಬಾಳು.",
+    "english_translation": "Be like grass at the foot of a mountain, be like jasmine for your home. When fate rains hardships, be like a stone. Be like jaggery and sugar to the poor and weak. Mingle with everyone and become one of them, oh Mankuthimma.",
+    "word_meanings": {
+      "ಹುಲ್ಲಾಗು": "ಹುಲ್ಲು + ಆಗು (Be like grass - humble)",
+      "ವಿಧಿ": "ಹಣೆಬರಹ (Fate/Destiny)",
+      "ದೀನದುರ್ಬಲರಿಂಗೆ": "ಬಡವರು ಮತ್ತು ಶಕ್ತಿಹೀನರಿಗೆ (To the poor and weak)",
+      "ಎಲ್ಲರೊಳೊಂದಾಗು": "ಎಲ್ಲರ + ಒಳಗೆ + ಒಂದು + ಆಗು (Mingle with everyone)"
+    },
+    "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+  },
+  {
+    "id": 2,
+    "title": "ಕುರುಡು ಕಾಂಚಾಣ",
+    "poet": "ದ.ರಾ. ಬೇಂದ್ರೆ",
+    "lines": [
+      "ಕುರುಡು ಕಾಂಚಾಣ ಕುಣಿಯುತ್ತಲಿತ್ತು!",
+      "ಕಾಲಿಗೆ ಬಿದ್ದವರ ತುಳಿಯುತ್ತಲಿತ್ತು!!"
+    ],
+    "bhavartha_kannada": "ಹಣ ಎಂಬ ಕುರುಡು ಶಕ್ತಿ ಅಹಂಕಾರದಿಂದ ಕುಣಿಯುತ್ತಿದೆ. ಅದಕ್ಕೆ ಕಣ್ಣಿಲ್ಲ, ಹಾಗಾಗಿ ತನ್ನನ್ನು ನಂಬಿ ಕಾಲಿಗೆ ಬಿದ್ದವರನ್ನೇ ಅದು ತುಳಿದು ನಾಶ ಮಾಡುತ್ತಿದೆ.",
+    "english_translation": "Blind wealth (money) was dancing arrogantly! It was trampling those who fell at its feet!!",
+    "word_meanings": {
+      "ಕುರುಡು": "ಕಣ್ಣಿಲ್ಲದ (Blind)",
+      "ಕಾಂಚಾಣ": "ಹಣ/ಚಿನ್ನ (Wealth/Money)",
+      "ತುಳಿಯುತ್ತಲಿತ್ತು": "ಕಾಲುಕೆಳಗೆ ಹಾಕಿ ಒತ್ತು (Trampling)"
+    },
+    "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+  },
+  {
+    "id": 3,
+    "title": "ಉದಯವಾಗಲಿ ನಮ್ಮ ಚೆಲುವ ಕನ್ನಡ ನಾಡು",
+    "poet": "ಹುಯಿಲಗೋಳ ನಾರಾಯಣರಾವ್",
+    "lines": [
+      "ಉದಯವಾಗಲಿ ನಮ್ಮ ಚೆಲುವ ಕನ್ನಡ ನಾಡು",
+      "ಬದುಕು ಬಲುಹಿನ ನಿಧಿಯು ಸದಭಿಮಾನದ ಗೂಡು"
+    ],
+    "bhavartha_kannada": "ನಮ್ಮ ಸುಂದರವಾದ ಕನ್ನಡ ನಾಡು ಉದಯಿಸಲಿ. ಇದು ಶಕ್ತಿ ಮತ್ತು ಜೀವನದ ಸಂಪತ್ತು, ಹಾಗೂ ಹೆಮ್ಮೆಯ ಬೀಡು.",
+    "english_translation": "May our beautiful Kannada land rise. It is the treasure of strength and life, and the nest of good pride.",
+    "word_meanings": {
+      "ಚೆಲುವ": "ಸುಂದರವಾದ (Beautiful)",
+      "ಬಲುಹಿನ": "ಶಕ್ತಿಯ (Of strength)",
+      "ಸದಭಿಮಾನದ": "ಒಳ್ಳೆಯ ಹೆಮ್ಮೆಯ (Of good pride)"
+    },
+    "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+  },
+  {
+    "id": 4,
+    "title": "ಬಾರಿಸು ಕನ್ನಡ ಡಿಂಡಿಮವ",
+    "poet": "ಕುವೆಂಪು",
+    "lines": [
+      "ಬಾರಿಸು ಕನ್ನಡ ಡಿಂಡಿಮವ",
+      "ಓ ಕರ್ನಾಟಕ ಹೃದಯ ಶಿವ",
+      "ಸತ್ತಂತಿಹರನು ಬಡಿದೆಚ್ಚರಿಸು",
+      "ಕಚ್ಚಾಡುವರನು ಕೂಡಿಸಿ ಒಲಿಸು"
+    ],
+    "bhavartha_kannada": "ಕನ್ನಡದ ಜಾಗೃತಿಯ ಡೊಳ್ಳನ್ನು ಬಾರಿಸು ಓ ಶಿವನೇ. ಸತ್ತವರಂತೆ ಇರುವ ಕನ್ನಡಿಗರನ್ನು ಎಚ್ಚರಿಸು. ಆಂತರಿಕವಾಗಿ ಜಗಳವಾಡುತ್ತಿರುವವರನ್ನು ಒಟ್ಟುಗೂಡಿಸಿ ಪ್ರೀತಿ ಹುಟ್ಟಿಸು.",
+    "english_translation": "Beat the drum of Kannada, Oh Shiva the heart of Karnataka. Wake up those who are like dead. Unite those who are fighting among themselves.",
+    "word_meanings": {
+      "ಡಿಂಡಿಮವ": "ಡೊಳ್ಳು/ವಾದ್ಯ (A drum instrument)",
+      "ಸತ್ತಂತಿಹರನು": "ಸತ್ತಂತೆ ಇರುವವರನ್ನು (Those who are lifeless)",
+      "ಬಡಿದೆಚ್ಚರಿಸು": "ಹೊಡೆದು ಎಚ್ಚರಿಸು (Strike and awaken)",
+      "ಕಚ್ಚಾಡುವರನು": "ಜಗಳವಾಡುವವರನ್ನು (Those who fight)"
+    },
+    "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+  },
+  {
+    "id": 5,
+    "title": "ಹಚ್ಚೇವು ಕನ್ನಡದ ದೀಪ",
+    "poet": "ಡಿ.ಎಸ್. ಕರ್ಕಿ",
+    "lines": [
+      "ಹಚ್ಚೇವು ಕನ್ನಡದ ದೀಪ",
+      "ಕರುನಾಡ ದೀಪ ಸಿರಿನುಡಿಯ ದೀಪ",
+      "ಒಲವೆತ್ತಿ ತೋರುವ ದೀಪ"
+    ],
+    "bhavartha_kannada": "ನಾವು ಕನ್ನಡ ಭಾಷೆಯ ದೀಪವನ್ನು ಬೆಳಗುತ್ತೇವೆ. ಇದು ಕರ್ನಾಟಕದ ದೀಪ, ನಮ್ಮ ಶ್ರೀಮಂತ ಭಾಷೆಯ ದೀಪ. ಎಲ್ಲೆಡೆ ಪ್ರೀತಿಯನ್ನು ಪಸರಿಸುವ ದೀಪವಿದು.",
+    "english_translation": "We shall light the lamp of Kannada. The lamp of Karunadu, the lamp of our rich language. The lamp that spreads love everywhere.",
+    "word_meanings": {
+      "ಹಚ್ಚೇವು": "ಬೆಳಗುತ್ತೇವೆ (We shall light)",
+      "ಸಿರಿನುಡಿಯ": "ಶ್ರೀಮಂತ ಭಾಷೆಯ (Of rich language)",
+      "ಒಲವೆತ್ತಿ": "ಪ್ರೀತಿಯನ್ನು ತೋರಿಸಿ (Showing love)"
+    },
+    "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
+  }
+]

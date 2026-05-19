@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Humble Grass",
+    "poet": "Classical Kannada",
+    "lines": ["ಹುಲ್ಲಾಗು ಬೆಟ್ಟದಡಿ", "ಮನೆಗೆ ಮಲ್ಲಿಗೆಯಾಗು"],
+    "bhavartha_kannada": "ವಿನಯದಿಂದ ಬದುಕು, ಮನೆಯಲ್ಲಿ ಸಂತಸ ಹಂಚು.",
+    "english_translation": "Be as humble as grass at the mountain foot; be like jasmine for your home.",
+    "word_meanings": { "ಹುಲ್ಲಾಗು": "Be like grass (be humble)", "ಮಲ್ಲಿಗೆ": "Jasmine flower" },
+    "audio_url": ""
+  },
+  {
+    "id": 2,
+    "title": "Beat the Drum",
+    "poet": "Classical Kannada",
+    "lines": ["ಬಾರಿಸು ಕನ್ನಡ ಡಿಂಡಿಮವ", "ಸತ್ತಂತಿಹರನು ಬಡಿದೆಚ್ಚರಿಸು"],
+    "bhavartha_kannada": "ಕನ್ನಡದ ಡೊಳ್ಳು ಬಾರಿಸಿ ನಿದ್ದೆಯಲ್ಲಿರುವವರನ್ನು ಎಚ್ಚರಿಸು.",
+    "english_translation": "Beat the drum of Kannada! Awaken those who live as the dead.",
+    "word_meanings": { "ಡಿಂಡಿಮ": "A drum", "ಸತ್ತಂತಿಹರನು": "Those living as dead", "ಬಡಿದೆಚ್ಚರಿಸು": "Strike and awaken" },
+    "audio_url": ""
+  },
+  {
+    "id": 3,
+    "title": "Light the Lamp",
+    "poet": "Classical Kannada",
+    "lines": ["ಹಚ್ಚೇವು ಕನ್ನಡದ ದೀಪ", "ಒಲವೆತ್ತಿ ತೋರುವ ದೀಪ"],
+    "bhavartha_kannada": "ಕನ್ನಡ ಭಾಷೆಯ ದೀಪ ಹಚ್ಚಿ ಪ್ರೀತಿ ತೋರಿಸೋಣ.",
+    "english_translation": "Let us light the lamp of Kannada, the lamp that radiates love.",
+    "word_meanings": { "ಹಚ್ಚೇವು": "We shall light", "ಒಲವೆತ್ತಿ": "Lifting with love" },
+    "audio_url": ""
+  },
+  {
+    "id": 4,
+    "title": "River of Life",
+    "poet": "Original",
+    "lines": ["ಜೀವನ ಒಂದು ನದಿಯಂತೆ", "ಹರಿಯುತ್ತಾ ಸಾಗಿ ಸಮುದ್ರ ಸೇರು"],
+    "bhavartha_kannada": "ಜೀವನ ನದಿಯಂತೆ ಹರಿಯಬೇಕು, ಕೊನೆಗೆ ಪರಮಾತ್ಮನಲ್ಲಿ ಲೀನವಾಗಬೇಕು.",
+    "english_translation": "Life is like a river; flow on and merge into the great ocean.",
+    "word_meanings": { "ನದಿಯಂತೆ": "Like a river", "ಹರಿಯುತ್ತಾ": "While flowing", "ಸಮುದ್ರ": "Ocean" },
+    "audio_url": ""
+  },
+  {
+    "id": 5,
+    "title": "Lamp of Knowledge",
+    "poet": "Original",
+    "lines": ["ಜ್ಞಾನದ ದೀಪ ಬೆಳಗಿಸು", "ಅಜ್ಞಾನದ ಕತ್ತಲೆ ಕಳೆ"],
+    "bhavartha_kannada": "ಜ್ಞಾನವೆಂಬ ದೀಪ ಹಚ್ಚಿ ಅಜ್ಞಾನದ ಕತ್ತಲು ನಾಶ ಮಾಡು.",
+    "english_translation": "Light the lamp of knowledge; dispel the darkness of ignorance.",
+    "word_meanings": { "ಜ್ಞಾನ": "Knowledge", "ಅಜ್ಞಾನ": "Ignorance", "ಕತ್ತಲೆ": "Darkness" },
+    "audio_url": ""
+  },
+  {
+    "id": 6,
+    "title": "The Lotus",
+    "poet": "Original",
+    "lines": ["ಕೆಸರಿನಲ್ಲಿ ಅರಳುತ್ತದೆ ತಾವರೆ", "ಕಷ್ಟದಲ್ಲಿ ಅರಳಲಿ ಮಾನವ"],
+    "bhavartha_kannada": "ಕೆಸರಿನಲ್ಲಿ ತಾವರೆ ಅರಳುವಂತೆ ಕಷ್ಟದಲ್ಲಿ ಮನುಷ್ಯ ಅರಳಬೇಕು.",
+    "english_translation": "The lotus blooms in mud; so too should a human blossom in hardship.",
+    "word_meanings": { "ಕೆಸರಿನಲ್ಲಿ": "In the mud", "ತಾವರೆ": "Lotus flower", "ಅರಳುತ್ತದೆ": "Blossoms", "ಕಷ್ಟ": "Hardship" },
+    "audio_url": ""
+  },
+  {
+    "id": 7,
+    "title": "Work is Worship",
+    "poet": "Original",
+    "lines": ["ಕೆಲಸವೇ ಕೈಲಾಸ ಮಾನವ", "ಶ್ರಮವೇ ನಿನ್ನ ದೇವಪೂಜೆ"],
+    "bhavartha_kannada": "ಮಾನವನಿಗೆ ಕೆಲಸವೇ ಕೈಲಾಸ. ಶ್ರಮ ಪಡುವುದೇ ದೇವರ ಪೂಜೆ.",
+    "english_translation": "Work is your heaven, O human; labor itself is your worship of God.",
+    "word_meanings": { "ಕೈಲಾಸ": "Heaven", "ಶ್ರಮ": "Hard work", "ದೇವಪೂಜೆ": "Worship of God" },
+    "audio_url": ""
+  },
+  {
+    "id": 8,
+    "title": "Patience",
+    "poet": "Original",
+    "lines": ["ತಾಳ್ಮೆ ತಾಳ್ಮೆ ತಾಳ್ಮೆ ಮಾನವ", "ಫಲ ಸಿಗುವುದು ನಿಧಾನಕ್ಕೆ"],
+    "bhavartha_kannada": "ತಾಳ್ಮೆ ವಹಿಸು. ಒಳ್ಳೆಯ ಫಲ ನಿಧಾನಕ್ಕೆ ಸಿಗುತ್ತದೆ.",
+    "english_translation": "Patience, patience, patience, O human; good fruit comes slowly in its time.",
+    "word_meanings": { "ತಾಳ್ಮೆ": "Patience", "ಮಾನವ": "Human being", "ಫಲ": "Fruit or result", "ನಿಧಾನ": "Slowly" },
+    "audio_url": ""
+  },
+  {
+    "id": 9,
+    "title": "Courage",
+    "poet": "Original",
+    "lines": ["ಧೈರ್ಯ ತಾ ಮುಂದೆ ನಡೆ", "ಗೆಲುವು ನಿನ್ನ ಹಿಂದೆ ಬರುತ್ತದೆ"],
+    "bhavartha_kannada": "ಧೈರ್ಯದಿಂದ ಮುಂದೆ ನಡೆ. ಗೆಲುವು ನಿನ್ನನ್ನು ಹಿಂಬಾಲಿಸಿ ಬರುತ್ತದೆ.",
+    "english_translation": "Take courage and move forward; victory will follow behind you.",
+    "word_meanings": { "ಧೈರ್ಯ": "Courage", "ಮುಂದೆ": "Forward", "ಗೆಲುವು": "Victory" },
+    "audio_url": ""
+  },
+  {
+    "id": 10,
+    "title": "Eternal Karnataka",
+    "poet": "Original",
+    "lines": ["ಕರ್ನಾಟಕ ಅಜರಾಮರ", "ಕನ್ನಡ ನುಡಿ ಚಿರಂಜೀವಿ"],
+    "bhavartha_kannada": "ಕರ್ನಾಟಕ ಶಾಶ್ವತ. ಕನ್ನಡ ಭಾಷೆ ಎಂದೂ ನಾಶವಾಗುವುದಿಲ್ಲ.",
+    "english_translation": "Karnataka is eternal and immortal; the Kannada language lives forever.",
+    "word_meanings": { "ಅಜರಾಮರ": "Immortal", "ನುಡಿ": "Language", "ಚಿರಂಜೀವಿ": "One who lives forever" },
+    "audio_url": ""
+  }
+]

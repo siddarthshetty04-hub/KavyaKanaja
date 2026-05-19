@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Book/Scroll icon for Kavya Kanaja -->
+    <group
+        android:translateX="27"
+        android:translateY="27">
+        <!-- Open book shape -->
+        <path
+            android:fillColor="#FFD700"
+            android:pathData="M27,8 C27,8 18,6 9,8 C4,9 0,12 0,12 L0,44 C0,44 4,41 9,40 C18,38 27,40 27,40 C27,40 36,38 45,40 C50,41 54,44 54,44 L54,12 C54,12 50,9 45,8 C36,6 27,8 27,8 Z" />
+        <!-- Left page -->
+        <path
+            android:fillColor="#FFF8E7"
+            android:pathData="M25,10 C25,10 18,8.5 11,10 C7,11 3,13 3,13 L3,42 C3,42 7,40 11,39 C18,37.5 25,39 25,39 Z" />
+        <!-- Right page -->
+        <path
+            android:fillColor="#FFF8E7"
+            android:pathData="M29,10 C29,10 36,8.5 43,10 C47,11 51,13 51,13 L51,42 C51,42 47,40 43,39 C36,37.5 29,39 29,39 Z" />
+        <!-- Center spine -->
+        <path
+            android:fillColor="#D4A853"
+            android:pathData="M26,10 L26,39 L28,39 L28,10 Z" />
+        <!-- Text lines left -->
+        <path
+            android:strokeColor="#C4A882"
+            android:strokeWidth="1"
+            android:pathData="M8,18 L22,18 M8,22 L20,22 M8,26 L22,26 M8,30 L18,30 M8,34 L22,34" />
+        <!-- Text lines right -->
+        <path
+            android:strokeColor="#C4A882"
+            android:strokeWidth="1"
+            android:pathData="M32,18 L46,18 M34,22 L46,22 M32,26 L46,26 M36,30 L46,30 M32,34 L46,34" />
+        <!-- Kannada Om symbol stylized -->
+        <path
+            android:fillColor="#D4A853"
+            android:pathData="M27,2 C27,2 24,0 22,2 C20,4 22,6 24,5 C26,4 25,2 27,2 Z"
+            android:strokeColor="#B8941F"
+            android:strokeWidth="0.5" />
+    </group>
+</vector>
