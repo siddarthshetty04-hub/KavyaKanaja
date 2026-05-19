@@ -60,7 +60,7 @@ This repository represents the cutting edge of modern Android UI/UX design, feat
 1. Clone the repository:
    go to terminal/cmd/powershell and run the following command:
 
-   git clone https://github.com/sinanmansoor/Kavya-Kanaja-Poetry-Granary
+   git clone https://github.com/siddarthshetty04-hub/Kavya-Kanaja-Poetry-Granary
 
 2. Open the project folder in Android Studio.
 3. Sync the Gradle files.
@@ -114,6 +114,4 @@ If you have the Android SDK and Java installed on your system:
 
 ---
 
-## 🤝 Contributing
 
-This project is currently in a stable state. Feel free to fork the repository, add more poems to the JSON data source, or create pull requests for new features!
